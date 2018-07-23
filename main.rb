@@ -1,6 +1,6 @@
      
 require 'sinatra'
-require 'sinatra/reloader' # only reloads main.rb by default
+# require 'sinatra/reloader' # only reloads main.rb by default
 require 'pry'
 require 'pg'
 

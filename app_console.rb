@@ -8,5 +8,5 @@ require_relative 'models/user'
 require_relative 'models/like'
 
 
-binding.pry
+# binding.pry
 
